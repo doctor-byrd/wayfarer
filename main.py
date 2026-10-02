@@ -1,1 +1,1 @@
-print("Welcme to Wayfarer!")
+print("Welcome to Wayfarer!")
